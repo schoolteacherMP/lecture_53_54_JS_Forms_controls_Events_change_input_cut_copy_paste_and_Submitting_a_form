@@ -23,7 +23,8 @@ HTML код:
 `<input type="text" id="colorInput">`  
 `<button onclick="changeBackgroundColor()">Change background color</button>`  
 ![image](https://user-images.githubusercontent.com/113675674/226188303-3524e1b6-f2d9-41a9-b42f-5139996f100b.png)  
-
+  
+  Когда пользователь вводит цвет в текстовое поле и нажимает кнопку, функция changeBackgroundColor() извлекает значение из поля ввода и применяет его как цвет фона для тела документа.  
 
 
 ## Задача 4.   
