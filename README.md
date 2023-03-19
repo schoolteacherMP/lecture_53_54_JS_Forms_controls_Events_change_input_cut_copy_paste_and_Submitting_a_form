@@ -2,10 +2,5 @@
 
 #  [Задачи ](https://github.com/schoolteacherMP/lecture_54_JS_Forms_controls_Events_change_input_cut_copy_paste/blob/main/tasks.md)  
 
-События изменения данных:
+![image](https://user-images.githubusercontent.com/113675674/226163452-b126343b-58d1-4691-8a1a-4bdcde72ebcd.png)  
 
-Событие	         Описание	                                      Особенности  
-change	         Значение было изменено.	                      Для текстовых полей срабатывает при потере фокуса.  
-input	           Срабатывает при каждом изменении значения.	    Запускается немедленно, в отличие от change.  
-cut/copy/paste	 Действия по вырезанию/копированию/вставке.	    Действие можно предотвратить.   
-                                                                Свойство event.clipboardData предоставляет доступ на чтение/запись в буфер обмена…  
