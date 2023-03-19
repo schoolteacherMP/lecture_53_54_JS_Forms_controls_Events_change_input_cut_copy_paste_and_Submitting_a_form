@@ -15,14 +15,15 @@ HTML код:
 
 
 ## Задача 2.   
-### 
+### Меняем фон  
 Допустим, у вас есть веб-страница с кнопкой и текстовым полем.   
 Вам нужно создать функцию на JavaScript, которая будет менять цвет фона страницы в зависимости от текста, который пользователь вводит в поле.   
 Если пользователь вводит "синий", фон становится синим, если "зеленый", фон становится зеленым и т.д.  
 HTML код:  
 `<input type="text" id="colorInput">`  
 `<button onclick="changeBackgroundColor()">Change background color</button>`  
-![image](https://user-images.githubusercontent.com/113675674/226188074-37b865f5-281b-4b01-bc9b-ca65eeafa1ad.png)  
+![image](https://user-images.githubusercontent.com/113675674/226188303-3524e1b6-f2d9-41a9-b42f-5139996f100b.png)  
+
 
 
 ## Задача 4.   
